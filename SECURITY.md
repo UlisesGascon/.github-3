@@ -4,10 +4,7 @@
 
 ## Reporting a Vulnerability
 
-Please report security issues **privately**:
-
-- Email: jlipps@cloudgrey.io (Jonathan Lipps) and christian@saucelabs.com (Christian Bromann)
-- Or use GitHub’s **Report a vulnerability** form on this repository (Security tab).
+Please report security issues **privately** using GitHub’s **Report a vulnerability** form on this repository (Security tab).
 
 **Do not** file public GitHub issues for security problems.
 
